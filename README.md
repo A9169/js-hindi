@@ -1,2 +1,2 @@
 # js-hindi
-for free trial
+js code trial
